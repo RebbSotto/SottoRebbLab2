@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SottoRebbLab2</string>
+    <string name="national_museum">National Museum</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="distance_from_ust">Distance From UST</string>
+    <string name="location">Location</string>
+</resources>
